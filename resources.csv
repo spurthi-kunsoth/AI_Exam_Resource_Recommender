@@ -1,115 +1,181 @@
 id,title,exam,subject,resource_type,level,description
-1,SSC CGL Quantitative Aptitude Complete Guide,SSC CGL,Quantitative Aptitude,Book,Beginner,Arithmetic percentages profit loss ratio proportion averages simple interest compound interest time work speed distance algebra geometry and basic mathematics
-2,SSC CGL Quantitative Aptitude Practice Sets,SSC CGL,Quantitative Aptitude,Practice,Intermediate,Topic wise quantitative aptitude questions covering arithmetic algebra geometry percentages ratios averages time work and speed distance
-3,SSC CGL Quantitative Aptitude Previous Papers,SSC CGL,Quantitative Aptitude,Previous Papers,Advanced,Previous year SSC CGL quantitative aptitude questions with solutions and important repeated concepts
-4,SSC CGL Quantitative Aptitude Mock Test,SSC CGL,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude mock test with arithmetic algebra geometry and data interpretation
-5,SSC CGL Reasoning Complete Guide,SSC CGL,Reasoning,Book,Beginner,Analogy classification series coding decoding blood relations direction sense ranking syllogism and logical reasoning
-6,SSC CGL Reasoning Practice Sets,SSC CGL,Reasoning,Practice,Intermediate,Topic wise reasoning practice questions covering analogy series coding decoding puzzles syllogism and logical reasoning
-7,SSC CGL Reasoning Previous Papers,SSC CGL,Reasoning,Previous Papers,Advanced,Previous year SSC CGL reasoning questions with solutions and examination patterns
-8,SSC CGL Reasoning Mock Test,SSC CGL,Reasoning,Mock Test,Advanced,Full length reasoning mock tests covering verbal and non verbal reasoning
-9,SSC CGL English Complete Guide,SSC CGL,English,Book,Beginner,English grammar vocabulary sentence correction error detection synonyms antonyms idioms and comprehension
-10,SSC CGL English Practice Sets,SSC CGL,English,Practice,Intermediate,Practice questions for grammar vocabulary reading comprehension sentence improvement and error detection
-11,SSC CGL English Previous Papers,SSC CGL,English,Previous Papers,Advanced,Previous year SSC CGL English questions with repeated grammar vocabulary and comprehension patterns
-12,SSC CGL English Mock Test,SSC CGL,English,Mock Test,Advanced,Full length English mock tests covering grammar vocabulary comprehension and sentence correction
-13,SSC CGL General Awareness Complete Guide,SSC CGL,General Awareness,Book,Beginner,Indian history geography polity economics general science static GK and current affairs
-14,SSC CGL General Awareness Practice,SSC CGL,General Awareness,Practice,Intermediate,Practice questions covering history geography polity economics science and general knowledge
-15,SSC CGL General Awareness Previous Papers,SSC CGL,General Awareness,Previous Papers,Advanced,Previous year general awareness questions with important static GK and current affairs topics
-16,SSC CGL General Awareness Mock Test,SSC CGL,General Awareness,Mock Test,Advanced,Full length general awareness mock tests covering history geography science polity economics and current affairs
-17,SSC CGL Computer Awareness Guide,SSC CGL,Computer Awareness,Book,Beginner,Computer fundamentals operating systems internet networking MS Office cyber security and basic computer concepts
-18,SSC CGL Computer Practice Questions,SSC CGL,Computer Awareness,Practice,Intermediate,Practice questions covering computer fundamentals internet networking operating systems and office applications
-19,SBI PO Quantitative Aptitude Guide,SBI PO,Quantitative Aptitude,Book,Beginner,Arithmetic simplification percentages profit loss ratio averages time work speed distance and data interpretation
-20,SBI PO Quantitative Aptitude Practice,SBI PO,Quantitative Aptitude,Practice,Intermediate,Topic wise quantitative aptitude and data interpretation practice questions for bank examinations
-21,SBI PO Quantitative Aptitude Previous Papers,SBI PO,Quantitative Aptitude,Previous Papers,Advanced,Previous year SBI PO quantitative aptitude questions with solutions and examination patterns
-22,SBI PO Quantitative Aptitude Mock Test,SBI PO,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude and data interpretation mock tests
-23,SBI PO Reasoning Ability Guide,SBI PO,Reasoning,Book,Beginner,Puzzles seating arrangement syllogism inequality coding decoding blood relations direction and logical reasoning
-24,SBI PO Reasoning Practice Sets,SBI PO,Reasoning,Practice,Intermediate,Practice questions covering puzzles seating arrangement syllogism coding and analytical reasoning
-25,SBI PO Reasoning Previous Papers,SBI PO,Reasoning,Previous Papers,Advanced,Previous year SBI PO reasoning questions with solutions and important question patterns
-26,SBI PO Reasoning Mock Test,SBI PO,Reasoning,Mock Test,Advanced,Full length reasoning mock tests covering puzzles seating arrangements and logical reasoning
-27,SBI PO English Language Guide,SBI PO,English,Book,Beginner,English grammar vocabulary reading comprehension error detection sentence correction and verbal ability
-28,SBI PO English Practice Sets,SBI PO,English,Practice,Intermediate,Practice questions covering reading comprehension grammar vocabulary cloze tests and sentence correction
-29,SBI PO English Previous Papers,SBI PO,English,Previous Papers,Advanced,Previous year SBI PO English questions with important repeated patterns
-30,SBI PO English Mock Test,SBI PO,English,Mock Test,Advanced,Full length English language mock tests for banking examination preparation
-31,SBI PO Banking Awareness Guide,SBI PO,Banking Awareness,Book,Beginner,Banking terminology financial institutions monetary policy RBI banking products digital banking and financial awareness
-32,SBI PO Banking Awareness Practice,SBI PO,Banking Awareness,Practice,Intermediate,Practice questions covering RBI banking terminology monetary policy financial awareness and current banking events
-33,SBI PO Banking Awareness Previous Papers,SBI PO,Banking Awareness,Previous Papers,Advanced,Previous banking awareness questions and important examination concepts
-34,SBI PO Banking Awareness Mock Test,SBI PO,Banking Awareness,Mock Test,Advanced,Full length banking awareness mock tests covering financial and banking concepts
-35,IBPS PO Quantitative Aptitude Guide,IBPS PO,Quantitative Aptitude,Book,Beginner,Arithmetic percentages ratios averages profit loss time work speed distance simplification and data interpretation
-36,IBPS PO Quantitative Practice Sets,IBPS PO,Quantitative Aptitude,Practice,Intermediate,Topic wise quantitative aptitude and data interpretation practice questions for IBPS PO
-37,IBPS PO Quantitative Previous Papers,IBPS PO,Quantitative Aptitude,Previous Papers,Advanced,Previous year IBPS PO quantitative aptitude questions with detailed solutions
-38,IBPS PO Quantitative Mock Test,IBPS PO,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude mock tests with data interpretation and arithmetic
-39,IBPS PO Reasoning Guide,IBPS PO,Reasoning,Book,Beginner,Puzzles seating arrangement syllogism inequality coding decoding blood relations and analytical reasoning
-40,IBPS PO Reasoning Practice Sets,IBPS PO,Reasoning,Practice,Intermediate,Topic wise reasoning practice questions covering puzzles coding syllogism and analytical reasoning
-41,IBPS PO Reasoning Previous Papers,IBPS PO,Reasoning,Previous Papers,Advanced,Previous year IBPS PO reasoning questions with solutions
-42,IBPS PO Reasoning Mock Test,IBPS PO,Reasoning,Mock Test,Advanced,Full length reasoning mock tests covering puzzles seating arrangement and logical reasoning
-43,IBPS PO English Guide,IBPS PO,English,Book,Beginner,Grammar vocabulary reading comprehension sentence correction error detection and verbal ability
-44,IBPS PO English Practice Sets,IBPS PO,English,Practice,Intermediate,English practice questions covering comprehension grammar vocabulary cloze tests and sentence correction
-45,IBPS PO English Previous Papers,IBPS PO,English,Previous Papers,Advanced,Previous year IBPS PO English questions and repeated examination patterns
-46,IBPS PO English Mock Test,IBPS PO,English,Mock Test,Advanced,Full length English mock tests for IBPS PO preparation
-47,IBPS PO Banking Awareness Guide,IBPS PO,Banking Awareness,Book,Beginner,Banking concepts RBI monetary policy financial awareness banking products and digital banking
-48,IBPS PO Banking Awareness Practice,IBPS PO,Banking Awareness,Practice,Intermediate,Practice questions covering banking awareness financial institutions RBI and monetary policy
-49,IBPS PO Computer Awareness Guide,IBPS PO,Computer Awareness,Book,Beginner,Computer fundamentals operating systems internet networking cyber security and office applications
-50,IBPS PO Computer Practice Sets,IBPS PO,Computer Awareness,Practice,Intermediate,Practice questions covering computer fundamentals networking internet operating systems and office tools
-51,UPSC General Studies Complete Guide,UPSC,General Studies,Book,Beginner,History geography polity economy environment science current affairs and important general studies concepts
-52,UPSC General Studies Practice Sets,UPSC,General Studies,Practice,Intermediate,Practice questions covering major UPSC general studies subjects and analytical concepts
-53,UPSC General Studies Previous Papers,UPSC,General Studies,Previous Papers,Advanced,Previous year UPSC civil services general studies questions with analysis
-54,UPSC General Studies Mock Test,UPSC,General Studies,Mock Test,Advanced,Full length UPSC general studies mock tests covering major syllabus areas
-55,UPSC History Preparation Guide,UPSC,History,Book,Beginner,Ancient medieval and modern Indian history freedom movement important events and historical concepts
-56,UPSC History Practice Sets,UPSC,History,Practice,Intermediate,History practice questions covering ancient medieval modern India and freedom movement
-57,UPSC History Previous Year Questions,UPSC,History,Previous Papers,Advanced,Previous year UPSC history questions with important concepts and analysis
-58,UPSC History Mock Test,UPSC,History,Mock Test,Advanced,Full length history mock tests for UPSC preparation
-59,UPSC Geography Preparation Guide,UPSC,Geography,Book,Beginner,Physical geography human geography Indian geography maps climate resources rivers agriculture and population
-60,UPSC Geography Practice Sets,UPSC,Geography,Practice,Intermediate,Practice questions covering physical human and Indian geography with map based concepts
-61,UPSC Geography Previous Papers,UPSC,Geography,Previous Papers,Advanced,Previous year UPSC geography questions with important concepts
-62,UPSC Geography Mock Test,UPSC,Geography,Mock Test,Advanced,Full length geography mock tests covering physical human and Indian geography
-63,UPSC Indian Polity Guide,UPSC,Polity,Book,Beginner,Indian constitution fundamental rights parliament president supreme court federalism governance and political system
-64,UPSC Indian Polity Practice Sets,UPSC,Polity,Practice,Intermediate,Practice questions covering constitution parliament judiciary fundamental rights and governance
-65,UPSC Indian Polity Previous Papers,UPSC,Polity,Previous Papers,Advanced,Previous year UPSC polity questions with detailed analysis
-66,UPSC Indian Polity Mock Test,UPSC,Polity,Mock Test,Advanced,Full length polity mock tests covering constitution governance parliament and judiciary
-67,UPSC Indian Economy Guide,UPSC,Economy,Book,Beginner,Indian economy national income inflation banking fiscal policy monetary policy taxation budget and development
-68,UPSC Indian Economy Practice Sets,UPSC,Economy,Practice,Intermediate,Practice questions covering Indian economy banking inflation fiscal policy monetary policy and taxation
-69,UPSC Indian Economy Previous Papers,UPSC,Economy,Previous Papers,Advanced,Previous year UPSC economy questions with important concepts
-70,UPSC Indian Economy Mock Test,UPSC,Economy,Mock Test,Advanced,Full length economy mock tests for civil services preparation
-71,UPSC Environment and Ecology Guide,UPSC,Environment,Book,Beginner,Ecosystems biodiversity climate change pollution conservation environmental laws and ecology
-72,UPSC Environment Practice Sets,UPSC,Environment,Practice,Intermediate,Practice questions covering ecology biodiversity climate change pollution and conservation
-73,UPSC Environment Previous Papers,UPSC,Environment,Previous Papers,Advanced,Previous year UPSC environment questions with important ecological concepts
-74,UPSC Environment Mock Test,UPSC,Environment,Mock Test,Advanced,Full length environment and ecology mock tests
-75,UPSC Science and Technology Guide,UPSC,Science and Technology,Book,Beginner,Physics chemistry biology space technology biotechnology information technology and scientific developments
-76,UPSC Science and Technology Practice,UPSC,Science and Technology,Practice,Intermediate,Practice questions covering science technology space biotechnology health and information technology
-77,UPSC Science and Technology Previous Papers,UPSC,Science and Technology,Previous Papers,Advanced,Previous year UPSC science and technology questions
-78,UPSC Science and Technology Mock Test,UPSC,Science and Technology,Mock Test,Advanced,Full length science and technology mock tests
-79,UPSC CSAT Preparation Guide,UPSC,CSAT,Book,Beginner,Reading comprehension logical reasoning basic mathematics data interpretation and analytical ability for CSAT
-80,UPSC CSAT Practice Sets,UPSC,CSAT,Practice,Intermediate,Practice questions covering comprehension reasoning mathematics and data interpretation
-81,UPSC CSAT Previous Papers,UPSC,CSAT,Previous Papers,Advanced,Previous year UPSC CSAT questions with solutions
-82,UPSC CSAT Mock Test,UPSC,CSAT,Mock Test,Advanced,Full length CSAT mock tests covering aptitude comprehension and reasoning
-83,NDA Mathematics Complete Guide,NDA,Mathematics,Book,Beginner,Algebra trigonometry geometry calculus statistics probability matrices vectors and basic mathematics
-84,NDA Mathematics Practice Sets,NDA,Mathematics,Practice,Intermediate,Topic wise NDA mathematics practice questions covering algebra trigonometry geometry statistics and calculus
-85,NDA Mathematics Previous Papers,NDA,Mathematics,Previous Papers,Advanced,Previous year NDA mathematics questions with solutions
-86,NDA Mathematics Mock Test,NDA,Mathematics,Mock Test,Advanced,Full length NDA mathematics mock tests
-87,NDA English Preparation Guide,NDA,English,Book,Beginner,English grammar vocabulary comprehension sentence correction synonyms antonyms and communication skills
-88,NDA English Practice Sets,NDA,English,Practice,Intermediate,English practice questions covering grammar vocabulary comprehension and sentence correction
-89,NDA English Previous Papers,NDA,English,Previous Papers,Advanced,Previous year NDA English questions with important patterns
-90,NDA English Mock Test,NDA,English,Mock Test,Advanced,Full length NDA English mock tests
-91,NDA General Science Guide,NDA,General Science,Book,Beginner,Physics chemistry biology human body basic science and scientific principles
-92,NDA General Science Practice Sets,NDA,General Science,Practice,Intermediate,Practice questions covering physics chemistry biology and general science
-93,NDA General Science Previous Papers,NDA,General Science,Previous Papers,Advanced,Previous year NDA general science questions
-94,NDA General Science Mock Test,NDA,General Science,Mock Test,Advanced,Full length NDA general science mock tests
-95,NDA History and Geography Guide,NDA,History and Geography,Book,Beginner,Indian history geography culture important events physical geography and world geography
-96,NDA History and Geography Practice,NDA,History and Geography,Practice,Intermediate,Practice questions covering Indian history geography culture and important geographical concepts
-97,NDA History and Geography Previous Papers,NDA,History and Geography,Previous Papers,Advanced,Previous year NDA history and geography questions
-98,NDA History and Geography Mock Test,NDA,History and Geography,Mock Test,Advanced,Full length NDA history and geography mock tests
-99,GATE Computer Science Complete Guide,GATE,Computer Science,Book,Beginner,Programming data structures algorithms operating systems DBMS computer networks computer organization and theory of computation
-100,GATE Computer Science Practice Sets,GATE,Computer Science,Practice,Intermediate,Topic wise GATE computer science practice questions covering core computer science subjects
-101,GATE Computer Science Previous Papers,GATE,Computer Science,Previous Papers,Advanced,Previous year GATE computer science questions with detailed solutions
-102,GATE Computer Science Mock Test,GATE,Computer Science,Mock Test,Advanced,Full length GATE computer science mock tests
-103,GATE Data Science and AI Guide,GATE,Data Science,Book,Beginner,Probability statistics linear algebra programming data science machine learning and artificial intelligence fundamentals
-104,GATE Data Science Practice Sets,GATE,Data Science,Practice,Intermediate,Practice questions covering probability statistics linear algebra programming data science and machine learning
-105,GATE Data Science Previous Papers,GATE,Data Science,Previous Papers,Advanced,Previous year GATE data science questions with solutions
-106,GATE Data Science Mock Test,GATE,Data Science,Mock Test,Advanced,Full length GATE data science and artificial intelligence mock tests
-107,GATE Engineering Mathematics Guide,GATE,Engineering Mathematics,Book,Beginner,Linear algebra calculus probability statistics differential equations and discrete mathematics
-108,GATE Engineering Mathematics Practice,GATE,Engineering Mathematics,Practice,Intermediate,Topic wise engineering mathematics practice questions for GATE
-109,GATE Engineering Mathematics Previous Papers,GATE,Engineering Mathematics,Previous Papers,Advanced,Previous year GATE engineering mathematics questions
-110,GATE Engineering Mathematics Mock Test,GATE,Engineering Mathematics,Mock Test,Advanced,Full length engineering mathematics mock tests
-111,GATE General Aptitude Guide,GATE,General Aptitude,Book,Beginner,Verbal ability numerical aptitude logical reasoning and quantitative aptitude for GATE
-112,GATE General Aptitude Practice,GATE,General Aptitude,Practice,Intermediate,Practice questions covering verbal numerical and logical aptitude
-113,GATE General Aptitude Previous Papers,GATE,General Aptitude,Previous Papers,Advanced,Previous year GATE aptitude questions with solutions
-114,GATE General Aptitude Mock Test,GATE,General Aptitude,Mock Test,Advanced,Full length GATE general aptitude mock tests
+1,Quantitative Aptitude for Competitive Examinations - R.S. Aggarwal,SSC CGL,Quantitative Aptitude,Book,Beginner,Arithmetic percentages ratios averages profit loss time work speed distance and basic mathematics
+2,Fast Track Objective Arithmetic - Rajesh Verma,SSC CGL,Quantitative Aptitude,Book,Intermediate,Arithmetic concepts shortcuts and solved examples for competitive examinations
+3,SSC Mathematics Chapter-wise Solved Papers - Kiran,SSC CGL,Quantitative Aptitude,Book,Advanced,SSC mathematics concepts and previous questions arranged by topic
+4,SSC CGL Quantitative Aptitude Practice Sets,SSC CGL,Quantitative Aptitude,Practice,Intermediate,Topic wise quantitative aptitude practice questions
+5,SSC CGL Quantitative Aptitude Previous Year Papers,SSC CGL,Quantitative Aptitude,Previous Papers,Advanced,Previous year SSC CGL quantitative aptitude questions with solutions
+6,SSC CGL Quantitative Aptitude Mock Tests,SSC CGL,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude mock tests
+7,A Modern Approach to Verbal and Non-Verbal Reasoning - R.S. Aggarwal,SSC CGL,Reasoning,Book,Beginner,Analogy classification series coding decoding blood relations and logical reasoning
+8,Analytical Reasoning - M.K. Pandey,SSC CGL,Reasoning,Book,Intermediate,Analytical reasoning logical thinking puzzles and problem solving
+9,SSC Reasoning Chapter-wise Solved Papers - Kiran,SSC CGL,Reasoning,Book,Advanced,SSC reasoning questions arranged by topic with solutions
+10,SSC CGL Reasoning Practice Sets,SSC CGL,Reasoning,Practice,Intermediate,Topic wise reasoning practice questions
+11,SSC CGL Reasoning Previous Year Papers,SSC CGL,Reasoning,Previous Papers,Advanced,Previous year SSC reasoning questions with solutions
+12,SSC CGL Reasoning Mock Tests,SSC CGL,Reasoning,Mock Test,Advanced,Full length reasoning mock tests
+13,Objective General English - S.P. Bakshi,SSC CGL,English,Book,Beginner,English grammar vocabulary sentence correction and comprehension
+14,Word Power Made Easy - Norman Lewis,SSC CGL,English,Book,Intermediate,Vocabulary building and word usage
+15,Plinth to Paramount - Neetu Singh,SSC CGL,English,Book,Advanced,Competitive English grammar vocabulary and practice
+16,SSC CGL English Practice Sets,SSC CGL,English,Practice,Intermediate,Grammar vocabulary comprehension and error detection practice
+17,SSC CGL English Previous Year Papers,SSC CGL,English,Previous Papers,Advanced,Previous year SSC English questions with solutions
+18,SSC CGL English Mock Tests,SSC CGL,English,Mock Test,Advanced,Full length English mock tests
+19,Lucent General Knowledge,SSC CGL,General Awareness,Book,Beginner,History geography polity economics science and static general knowledge
+20,NCERT History Geography Science and Social Science Textbooks,SSC CGL,General Awareness,Book,Intermediate,Foundation concepts for general awareness preparation
+21,Manorama Yearbook,SSC CGL,General Awareness,Book,Advanced,General knowledge current affairs important facts and national information
+22,SSC CGL General Awareness Practice Sets,SSC CGL,General Awareness,Practice,Intermediate,General awareness practice questions
+23,SSC CGL General Awareness Previous Year Papers,SSC CGL,General Awareness,Previous Papers,Advanced,Previous year general awareness questions
+24,SSC CGL General Awareness Mock Tests,SSC CGL,General Awareness,Mock Test,Advanced,Full length general awareness mock tests
+25,Lucent Computer,SSC CGL,Computer Awareness,Book,Beginner,Computer fundamentals operating systems internet and networking
+26,Objective Computer Awareness - Arihant,SSC CGL,Computer Awareness,Book,Intermediate,Computer awareness concepts and objective questions
+27,Computer Knowledge for Competitive Examinations,SSC CGL,Computer Awareness,Book,Advanced,Computer concepts networking operating systems and office applications
+28,SSC CGL Computer Awareness Practice Sets,SSC CGL,Computer Awareness,Practice,Intermediate,Computer awareness practice questions
+29,SSC CGL Computer Awareness Previous Questions,SSC CGL,Computer Awareness,Previous Papers,Advanced,Previous computer awareness questions
+30,SSC CGL Computer Awareness Mock Tests,SSC CGL,Computer Awareness,Mock Test,Advanced,Computer awareness mock tests
+31,Quantitative Aptitude for Competitive Examinations - R.S. Aggarwal,SBI PO,Quantitative Aptitude,Book,Beginner,Arithmetic percentages ratios averages profit loss time work and data interpretation
+32,Fast Track Objective Arithmetic - Rajesh Verma,SBI PO,Quantitative Aptitude,Book,Intermediate,Arithmetic concepts shortcuts and solved examples
+33,Quantum CAT - Sarvesh K. Verma,SBI PO,Quantitative Aptitude,Book,Advanced,Advanced quantitative aptitude and problem solving
+34,SBI PO Quantitative Aptitude Practice Sets,SBI PO,Quantitative Aptitude,Practice,Intermediate,Quantitative aptitude and data interpretation practice
+35,SBI PO Quantitative Aptitude Previous Papers,SBI PO,Quantitative Aptitude,Previous Papers,Advanced,Previous year SBI PO quantitative aptitude questions
+36,SBI PO Quantitative Aptitude Mock Tests,SBI PO,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude mock tests
+37,A Modern Approach to Verbal and Non-Verbal Reasoning - R.S. Aggarwal,SBI PO,Reasoning,Book,Beginner,Verbal and non verbal reasoning concepts
+38,Analytical Reasoning - M.K. Pandey,SBI PO,Reasoning,Book,Intermediate,Analytical reasoning puzzles and logical thinking
+39,A New Approach to Reasoning - B.S. Sijwali,SBI PO,Reasoning,Book,Advanced,Competitive reasoning and puzzle practice
+40,SBI PO Reasoning Practice Sets,SBI PO,Reasoning,Practice,Intermediate,Puzzles seating arrangement syllogism coding and reasoning practice
+41,SBI PO Reasoning Previous Papers,SBI PO,Reasoning,Previous Papers,Advanced,Previous year SBI PO reasoning questions
+42,SBI PO Reasoning Mock Tests,SBI PO,Reasoning,Mock Test,Advanced,Full length reasoning mock tests
+43,Objective General English - S.P. Bakshi,SBI PO,English,Book,Beginner,English grammar vocabulary and comprehension
+44,High School English Grammar and Composition - Wren and Martin,SBI PO,English,Book,Intermediate,English grammar and usage fundamentals
+45,Word Power Made Easy - Norman Lewis,SBI PO,English,Book,Advanced,Vocabulary development and word usage
+46,SBI PO English Practice Sets,SBI PO,English,Practice,Intermediate,English grammar vocabulary comprehension and cloze tests
+47,SBI PO English Previous Papers,SBI PO,English,Previous Papers,Advanced,Previous year SBI PO English questions
+48,SBI PO English Mock Tests,SBI PO,English,Mock Test,Advanced,Full length English mock tests
+49,Banking Awareness - RPH Editorial Board,SBI PO,Banking Awareness,Book,Beginner,Banking terminology RBI financial institutions and banking concepts
+50,Objective Banking Awareness - Arihant,SBI PO,Banking Awareness,Book,Intermediate,Banking awareness concepts and objective questions
+51,Banking and Financial Awareness - Disha Experts,SBI PO,Banking Awareness,Book,Advanced,Banking financial awareness and current banking concepts
+52,SBI PO Banking Awareness Practice Sets,SBI PO,Banking Awareness,Practice,Intermediate,Banking awareness practice questions
+53,SBI PO Banking Awareness Previous Questions,SBI PO,Banking Awareness,Previous Papers,Advanced,Previous banking awareness questions
+54,SBI PO Banking Awareness Mock Tests,SBI PO,Banking Awareness,Mock Test,Advanced,Banking awareness mock tests
+55,Quantitative Aptitude for Competitive Examinations - R.S. Aggarwal,IBPS PO,Quantitative Aptitude,Book,Beginner,Arithmetic percentages ratios averages profit loss time work and data interpretation
+56,Fast Track Objective Arithmetic - Rajesh Verma,IBPS PO,Quantitative Aptitude,Book,Intermediate,Arithmetic concepts shortcuts and solved examples
+57,Magical Book on Quicker Maths - M. Tyra,IBPS PO,Quantitative Aptitude,Book,Advanced,Fast calculation methods and quantitative aptitude
+58,IBPS PO Quantitative Aptitude Practice Sets,IBPS PO,Quantitative Aptitude,Practice,Intermediate,Quantitative aptitude and data interpretation practice questions
+59,IBPS PO Quantitative Aptitude Previous Papers,IBPS PO,Quantitative Aptitude,Previous Papers,Advanced,Previous year IBPS PO quantitative aptitude questions
+60,IBPS PO Quantitative Aptitude Mock Tests,IBPS PO,Quantitative Aptitude,Mock Test,Advanced,Full length quantitative aptitude mock tests
+61,A Modern Approach to Verbal and Non-Verbal Reasoning - R.S. Aggarwal,IBPS PO,Reasoning,Book,Beginner,Verbal and non verbal reasoning concepts
+62,Analytical Reasoning - M.K. Pandey,IBPS PO,Reasoning,Book,Intermediate,Analytical reasoning puzzles and logical thinking
+63,A New Approach to Reasoning - B.S. Sijwali,IBPS PO,Reasoning,Book,Advanced,Competitive reasoning and puzzle practice
+64,IBPS PO Reasoning Practice Sets,IBPS PO,Reasoning,Practice,Intermediate,Puzzles seating arrangement syllogism coding and reasoning practice
+65,IBPS PO Reasoning Previous Papers,IBPS PO,Reasoning,Previous Papers,Advanced,Previous year IBPS PO reasoning questions
+66,IBPS PO Reasoning Mock Tests,IBPS PO,Reasoning,Mock Test,Advanced,Full length reasoning mock tests
+67,Objective General English - S.P. Bakshi,IBPS PO,English,Book,Beginner,English grammar vocabulary and comprehension
+68,High School English Grammar and Composition - Wren and Martin,IBPS PO,English,Book,Intermediate,English grammar and usage fundamentals
+69,Word Power Made Easy - Norman Lewis,IBPS PO,English,Book,Advanced,Vocabulary development and word usage
+70,IBPS PO English Practice Sets,IBPS PO,English,Practice,Intermediate,English grammar vocabulary comprehension and cloze test practice
+71,IBPS PO English Previous Papers,IBPS PO,English,Previous Papers,Advanced,Previous year IBPS PO English questions
+72,IBPS PO English Mock Tests,IBPS PO,English,Mock Test,Advanced,Full length English mock tests
+73,Banking Awareness - RPH Editorial Board,IBPS PO,Banking Awareness,Book,Beginner,Banking terminology RBI financial institutions and banking concepts
+74,Objective Banking Awareness - Arihant,IBPS PO,Banking Awareness,Book,Intermediate,Banking awareness concepts and objective questions
+75,Banking and Financial Awareness - Disha Experts,IBPS PO,Banking Awareness,Book,Advanced,Banking financial awareness and current banking concepts
+76,IBPS PO Banking Awareness Practice Sets,IBPS PO,Banking Awareness,Practice,Intermediate,Banking awareness practice questions
+77,IBPS PO Banking Awareness Previous Questions,IBPS PO,Banking Awareness,Previous Papers,Advanced,Previous banking awareness questions
+78,IBPS PO Banking Awareness Mock Tests,IBPS PO,Banking Awareness,Mock Test,Advanced,Banking awareness mock tests
+79,Objective Computer Awareness - Arihant,IBPS PO,Computer Awareness,Book,Beginner,Computer fundamentals internet operating systems and office applications
+80,Computer Knowledge for SBI IBPS RRB Exams,IBPS PO,Computer Awareness,Book,Intermediate,Computer concepts for banking examinations
+81,Lucent Computer,IBPS PO,Computer Awareness,Book,Advanced,Computer fundamentals networking operating systems and internet
+82,IBPS PO Computer Awareness Practice Sets,IBPS PO,Computer Awareness,Practice,Intermediate,Computer awareness practice questions
+83,IBPS PO Computer Awareness Previous Questions,IBPS PO,Computer Awareness,Previous Papers,Advanced,Previous computer awareness questions
+84,IBPS PO Computer Awareness Mock Tests,IBPS PO,Computer Awareness,Mock Test,Advanced,Computer awareness mock tests
+85,NCERT Textbooks for UPSC General Studies,UPSC,General Studies,Book,Beginner,Foundation concepts in history geography polity economy science and society
+86,General Studies Manual - McGraw Hill,UPSC,General Studies,Book,Intermediate,Comprehensive UPSC general studies preparation
+87,Indian Year Book - Government of India,UPSC,General Studies,Book,Advanced,Indian government facts development statistics and national information
+88,UPSC General Studies Practice Questions,UPSC,General Studies,Practice,Intermediate,General studies topic wise practice questions
+89,UPSC General Studies Previous Year Questions,UPSC,General Studies,Previous Papers,Advanced,Previous year UPSC general studies questions
+90,UPSC General Studies Mock Tests,UPSC,General Studies,Mock Test,Advanced,Full length UPSC general studies mock tests
+91,A Brief History of Modern India - Spectrum,UPSC,History,Book,Beginner,Modern Indian history freedom movement and important events
+92,India's Struggle for Independence - Bipan Chandra,UPSC,History,Book,Intermediate,Indian national movement and freedom struggle
+93,History of Medieval India - Satish Chandra,UPSC,History,Book,Advanced,Medieval Indian history concepts and events
+94,UPSC History Practice Questions,UPSC,History,Practice,Intermediate,Ancient medieval and modern history practice questions
+95,UPSC History Previous Year Questions,UPSC,History,Previous Papers,Advanced,Previous year UPSC history questions
+96,UPSC History Mock Tests,UPSC,History,Mock Test,Advanced,Full length history mock tests
+97,Certificate Physical and Human Geography - G.C. Leong,UPSC,Geography,Book,Beginner,Physical geography climate landforms and human geography
+98,Oxford Student Atlas for India,UPSC,Geography,Book,Intermediate,Maps Indian geography resources rivers climate and locations
+99,Fundamentals of Physical Geography - NCERT,UPSC,Geography,Book,Advanced,Physical geography concepts and geographical processes
+100,UPSC Geography Practice Questions,UPSC,Geography,Practice,Intermediate,Physical human and Indian geography practice
+101,UPSC Geography Previous Year Questions,UPSC,Geography,Previous Papers,Advanced,Previous year UPSC geography questions
+102,UPSC Geography Mock Tests,UPSC,Geography,Mock Test,Advanced,Full length geography mock tests
+103,Indian Polity - M. Laxmikanth,UPSC,Polity,Book,Beginner,Indian constitution fundamental rights parliament judiciary and governance
+104,Introduction to the Constitution of India - D.D. Basu,UPSC,Polity,Book,Intermediate,Indian constitution constitutional principles and institutions
+105,Indian Constitution at Work - NCERT,UPSC,Polity,Book,Advanced,Constitutional institutions rights and democratic government
+106,UPSC Polity Practice Questions,UPSC,Polity,Practice,Intermediate,Indian polity constitution parliament judiciary and governance practice
+107,UPSC Polity Previous Year Questions,UPSC,Polity,Previous Papers,Advanced,Previous year UPSC polity questions
+108,UPSC Polity Mock Tests,UPSC,Polity,Mock Test,Advanced,Full length polity mock tests
+109,Indian Economy - Ramesh Singh,UPSC,Economy,Book,Beginner,Indian economy national income inflation banking taxation and development
+110,Indian Economy - Sanjeev Verma,UPSC,Economy,Book,Intermediate,Indian economy concepts policies and current economic issues
+111,Indian Economic Development - NCERT,UPSC,Economy,Book,Advanced,Economic development poverty employment and Indian economy
+112,UPSC Economy Practice Questions,UPSC,Economy,Practice,Intermediate,Indian economy and economic policy practice
+113,UPSC Economy Previous Year Questions,UPSC,Economy,Previous Papers,Advanced,Previous year UPSC economy questions
+114,UPSC Economy Mock Tests,UPSC,Economy,Mock Test,Advanced,Full length economy mock tests
+115,Environment - Shankar IAS Academy,UPSC,Environment,Book,Beginner,Ecosystems biodiversity climate change pollution and environmental governance
+116,Environment and Ecology - Majid Husain,UPSC,Environment,Book,Intermediate,Ecology biodiversity environmental issues and conservation
+117,NCERT Biology and Environmental Science Textbooks,UPSC,Environment,Book,Advanced,Basic biology ecology ecosystems and environmental concepts
+118,UPSC Environment Practice Questions,UPSC,Environment,Practice,Intermediate,Environment ecology biodiversity and conservation practice
+119,UPSC Environment Previous Year Questions,UPSC,Environment,Previous Papers,Advanced,Previous year UPSC environment questions
+120,UPSC Environment Mock Tests,UPSC,Environment,Mock Test,Advanced,Full length environment and ecology mock tests
+121,Science and Technology - Spectrum,UPSC,Science and Technology,Book,Beginner,Scientific developments space biotechnology health and technology
+122,NCERT Science Textbooks Classes 6 to 10,UPSC,Science and Technology,Book,Intermediate,Foundation physics chemistry biology and science concepts
+123,Science and Technology for Civil Services - McGraw Hill,UPSC,Science and Technology,Book,Advanced,Science technology space biotechnology and information technology
+124,UPSC Science and Technology Practice Questions,UPSC,Science and Technology,Practice,Intermediate,Science and technology practice questions
+125,UPSC Science and Technology Previous Year Questions,UPSC,Science and Technology,Previous Papers,Advanced,Previous year science and technology questions
+126,UPSC Science and Technology Mock Tests,UPSC,Science and Technology,Mock Test,Advanced,Full length science and technology mock tests
+127,CSAT Manual - Tata McGraw Hill,UPSC,CSAT,Book,Beginner,CSAT mathematics reasoning comprehension and data interpretation
+128,CSAT Paper II - Arihant,UPSC,CSAT,Book,Intermediate,CSAT aptitude comprehension reasoning and mathematics
+129,Analytical Reasoning - M.K. Pandey,UPSC,CSAT,Book,Advanced,Logical reasoning and analytical aptitude for CSAT
+130,UPSC CSAT Practice Questions,UPSC,CSAT,Practice,Intermediate,CSAT comprehension reasoning mathematics and data interpretation practice
+131,UPSC CSAT Previous Year Questions,UPSC,CSAT,Previous Papers,Advanced,Previous year UPSC CSAT questions with solutions
+132,UPSC CSAT Mock Tests,UPSC,CSAT,Mock Test,Advanced,Full length CSAT mock tests
+133,Mathematics for NDA - R.S. Aggarwal,NDA,Mathematics,Book,Beginner,Algebra trigonometry geometry calculus statistics probability and mathematics
+134,Pathfinder for NDA and NA - Arihant,NDA,Mathematics,Book,Intermediate,NDA mathematics concepts solved examples and practice
+135,NDA Mathematics Chapter-wise Solved Papers - Kiran,NDA,Mathematics,Book,Advanced,NDA mathematics previous questions arranged by topic
+136,NDA Mathematics Practice Sets,NDA,Mathematics,Practice,Intermediate,Topic wise NDA mathematics practice questions
+137,NDA Mathematics Previous Year Papers,NDA,Mathematics,Previous Papers,Advanced,Previous year NDA mathematics questions
+138,NDA Mathematics Mock Tests,NDA,Mathematics,Mock Test,Advanced,Full length NDA mathematics mock tests
+139,Objective General English - S.P. Bakshi,NDA,English,Book,Beginner,English grammar vocabulary comprehension and sentence correction
+140,Word Power Made Easy - Norman Lewis,NDA,English,Book,Intermediate,Vocabulary building and word usage
+141,High School English Grammar and Composition - Wren and Martin,NDA,English,Book,Advanced,English grammar and language fundamentals
+142,NDA English Practice Sets,NDA,English,Practice,Intermediate,English grammar vocabulary and comprehension practice
+143,NDA English Previous Year Papers,NDA,English,Previous Papers,Advanced,Previous year NDA English questions
+144,NDA English Mock Tests,NDA,English,Mock Test,Advanced,Full length NDA English mock tests
+145,General Science for NDA - Arihant,NDA,General Science,Book,Beginner,Physics chemistry biology and general science concepts
+146,NCERT Science Textbooks Classes 6 to 10,NDA,General Science,Book,Intermediate,Foundation physics chemistry and biology concepts
+147,NDA General Science Guide - Disha Experts,NDA,General Science,Book,Advanced,NDA science concepts and examination preparation
+148,NDA General Science Practice Sets,NDA,General Science,Practice,Intermediate,Physics chemistry biology and general science practice
+149,NDA General Science Previous Year Papers,NDA,General Science,Previous Papers,Advanced,Previous year NDA general science questions
+150,NDA General Science Mock Tests,NDA,General Science,Mock Test,Advanced,Full length NDA general science mock tests
+151,Pathfinder for NDA and NA - Arihant,NDA,History and Geography,Book,Beginner,NDA history geography culture and general studies concepts
+152,NCERT History and Geography Textbooks,NDA,History and Geography,Book,Intermediate,Indian history geography and basic geographical concepts
+153,NDA and NA General Studies Guide - R.S. Aggarwal,NDA,History and Geography,Book,Advanced,NDA history geography and general studies preparation
+154,NDA History and Geography Practice Sets,NDA,History and Geography,Practice,Intermediate,History geography culture and geographical practice
+155,NDA History and Geography Previous Year Papers,NDA,History and Geography,Previous Papers,Advanced,Previous year NDA history and geography questions
+156,NDA History and Geography Mock Tests,NDA,History and Geography,Mock Test,Advanced,Full length NDA history and geography mock tests
+157,Introduction to Algorithms - Cormen Leiserson Rivest and Stein,GATE,Computer Science,Book,Advanced,Algorithms data structures sorting searching graphs and algorithm analysis
+158,Operating System Concepts - Silberschatz Galvin and Gagne,GATE,Computer Science,Book,Intermediate,Processes threads scheduling memory management file systems and operating systems
+159,Computer Networking A Top-Down Approach - Kurose and Ross,GATE,Computer Science,Book,Advanced,Computer networks protocols transport routing and network applications
+160,GATE Computer Science Practice Sets,GATE,Computer Science,Practice,Intermediate,Topic wise GATE computer science practice questions
+161,GATE Computer Science Previous Year Papers,GATE,Computer Science,Previous Papers,Advanced,Previous year GATE computer science questions with solutions
+162,GATE Computer Science Mock Tests,GATE,Computer Science,Mock Test,Advanced,Full length GATE computer science mock tests
+163,Mathematics for Machine Learning - Deisenroth Faisal and Ong,GATE,Data Science,Book,Advanced,Linear algebra calculus probability and mathematical foundations for machine learning
+164,Introduction to Probability - Bertsekas and Tsitsiklis,GATE,Data Science,Book,Intermediate,Probability concepts random variables distributions and statistical foundations
+165,Pattern Recognition and Machine Learning - Christopher Bishop,GATE,Data Science,Book,Advanced,Machine learning statistical modelling classification and pattern recognition
+166,GATE Data Science Practice Sets,GATE,Data Science,Practice,Intermediate,Topic wise GATE data science practice questions
+167,GATE Data Science Previous Year Papers,GATE,Data Science,Previous Papers,Advanced,Previous year GATE data science questions with solutions
+168,GATE Data Science Mock Tests,GATE,Data Science,Mock Test,Advanced,Full length GATE data science mock tests
+169,Higher Engineering Mathematics - B.S. Grewal,GATE,Engineering Mathematics,Book,Beginner,Linear algebra calculus differential equations probability and engineering mathematics
+170,Advanced Engineering Mathematics - Erwin Kreyszig,GATE,Engineering Mathematics,Book,Advanced,Advanced calculus linear algebra differential equations and mathematics
+171,Engineering Mathematics - R.K. Jain,GATE,Engineering Mathematics,Book,Intermediate,Engineering mathematics concepts examples and problems
+172,GATE Engineering Mathematics Practice Sets,GATE,Engineering Mathematics,Practice,Intermediate,Topic wise GATE engineering mathematics practice
+173,GATE Engineering Mathematics Previous Year Papers,GATE,Engineering Mathematics,Previous Papers,Advanced,Previous year GATE engineering mathematics questions
+174,GATE Engineering Mathematics Mock Tests,GATE,Engineering Mathematics,Mock Test,Advanced,Full length engineering mathematics mock tests
+175,GATE General Aptitude - Made Easy,GATE,General Aptitude,Book,Beginner,Verbal numerical and logical aptitude for GATE
+176,GATE General Aptitude - ACE Engineering Academy,GATE,General Aptitude,Book,Intermediate,GATE aptitude concepts examples and practice
+177,A Modern Approach to Verbal and Non-Verbal Reasoning - R.S. Aggarwal,GATE,General Aptitude,Book,Advanced,Verbal reasoning quantitative aptitude and logical reasoning
+178,GATE General Aptitude Practice Sets,GATE,General Aptitude,Practice,Intermediate,Topic wise GATE aptitude practice questions
+179,GATE General Aptitude Previous Year Papers,GATE,General Aptitude,Previous Papers,Advanced,Previous year GATE aptitude questions
+180,GATE General Aptitude Mock Tests,GATE,General Aptitude,Mock Test,Advanced,Full length GATE aptitude mock tests
